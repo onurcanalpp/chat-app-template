@@ -17,9 +17,10 @@ body {
     color: $primary;
     line-height: 1.6;
     font-weight: 400;
-    overflow-x:hidden;
+    
     letter-spacing:.2px;
     background-color:#1F1F1F;
+    overflow:hidden;
 }
 a{
     text-decoration: none !important;
